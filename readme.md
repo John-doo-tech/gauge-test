@@ -14,5 +14,5 @@
 - "pricing.feature" file is define in "spec" folder
 - test function that is mapped to "pricing.feature" is defined in "test" folder
 - test report will be generated in "reports" folder with html format after test execution is complete
-- test environment is define in "env" folder
+- test environment is defined in "env" folder
 - gauge log file will be generated in "logs" folder
