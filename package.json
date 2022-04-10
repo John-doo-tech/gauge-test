@@ -1,0 +1,11 @@
+{
+  "name": "gauge-test",
+  "description": "BDD framework with Gauge and Taiko",
+  "scripts": {
+    "test:prod": "gauge run specs/"
+  },
+  "dependencies": {
+    "@getgauge/cli": "^1.4.3",
+    "taiko": "latest"
+  }
+}
